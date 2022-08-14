@@ -28,4 +28,6 @@
 
     - https://www.scienceworld.ca/stories/how-long-does-water-cycle-really-take/ water cycle 9 days
 
-    - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiagKLkpKn5AhVNRmwGHRVsAx4QFnoECAsQAw&url=https%3A%2F%2Fwww.mdpi.com%2F2073-4441%2F13%2F21%2F3023%2Fpdf&usg=AOvVaw1WBrcAU7LzXCLON04YmbZ2 Analysis of desalination technologies and their environmental impa
+    - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiagKLkpKn5AhVNRmwGHRVsAx4QFnoECAsQAw&url=https%3A%2F%2Fwww.mdpi.com%2F2073-4441%2F13%2F21%2F3023%2Fpdf&usg=AOvVaw1WBrcAU7LzXCLON04YmbZ2 Analysis of desalination technologies and their environmental impact
+    
+    - https://www-pub.iaea.org/MTCD/publications/PDF/te_1561_web.pdf  
